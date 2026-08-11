@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "task-tracker-web-app",
+      "title": "Build a Simple Task Tracker Web App",
+      "description": "Create a browser-based task tracker that connects a front end to a REST API and practices working with HTML, CSS, JavaScript, and fetch",
+      "path": "assignments/task-tracker-web-app",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter Styles",
+          "file": "styles.css",
+          "type": "txt"
+        },
+        {
+          "name": "Starter Script",
+          "file": "script.js",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
